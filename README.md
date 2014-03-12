@@ -1,4 +1,4 @@
-SimpleGps
+ Pathfinding Evaluation
 =========
 
-A simple digital map software for algorithm testing
+A simple framework for testing pathfinding algorithm
